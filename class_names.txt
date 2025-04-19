@@ -1,0 +1,22 @@
+Dental Disease in Cat 
+Dental Disease in Dog 
+Distemper in Dog 
+Ear Mites in Cat 
+Eye Infection in Cat 
+Eye Infection in Dog 
+Feline Leukemia 
+Feline Panleukopenia 
+Fungal Infection in Cat 
+Fungal Infection in Dog 
+Hot Spots in Dog 
+Kennel Cough in Dog 
+Mange in Dog 
+Parvovirus in Dog 
+Ringworm in Cat 
+Scabies in Cat 
+Skin Allergy in Cat 
+Skin Allergy in Dog 
+Tick Infestation in Dog 
+Urinary Tract Infection in Cat 
+Worm Infection in Cat 
+Worm Infection in Dog 
